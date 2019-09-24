@@ -1,0 +1,32 @@
+body{
+  background-image: url("okay.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+article{
+  font-family:big shoulders text;
+  background-color : rgba(0, 0, 0, 0.75);
+  border-style: solid;
+  border-color:goldenrod;
+  color:white;
+}
+
+footer{
+  background-color:aqua;
+  border-style:solid;
+  border-radius:40px;
+  border-color:purple;
+  color:firebrick;
+}
+
+header{
+  border-style:outset;
+  border-color:gold;
+  background-color: rgba(5, 53, 45, 0.5); 
+  font-family:lobster;
+  color:rgb(55, 0, 255);
+   text-shadow: 0px 1px 10px red;
+}
